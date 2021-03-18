@@ -1,2 +1,4 @@
 # selen_blg_101
-Selenin ilk ödevi :)
+Selen's first homework :)
+
+Website: https://borawhocodess.github.io/selen_blg_101/
